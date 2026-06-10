@@ -1,0 +1,6 @@
+{
+  "name": "DiskritLearn",
+  "description": "Platform pembelajaran matematika diskrit interaktif yang modern, rapi, dan tepercaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
